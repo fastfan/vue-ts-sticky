@@ -9,7 +9,9 @@
     "experimentalDecorators": true,
     "skipLibCheck": true,
     "esModuleInterop": true,
+    "noImplicitAny":false,
     "allowSyntheticDefaultImports": true,
+    "suppressImplicitAnyIndexErrors":true,
     "sourceMap": true,
     "baseUrl": ".",
     "types": [
